@@ -1,0 +1,8 @@
+.top {
+  display: flex;
+  list-style-type: none;
+}
+
+.top li {
+  padding: 0.2rem 1rem;
+}
